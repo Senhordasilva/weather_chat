@@ -1,0 +1,27 @@
+weather = input("Hello my name is Eve. How is the weather: ")
+
+if "dark" in weather or "rainy" in weather or "cloudy" in weather or "no sun" in weather or "bad" in weather or "shit" in weather:
+  print("Shit, I hope it is getting better soon")
+elif "sun" in weather or "sunny" in weather or "no clouds" in weather:
+  print("Lucky you")
+else:
+  print('Just curios...')
+
+
+
+
+
+"""
+plot = input("Type in your plot: ")
+if "action" in plot:
+    print("Action movie?")
+   
+elif "love" in plot:
+    print("love movie")
+    
+elif "funny" in plot:
+    print("comedy movie?")
+    
+else:
+    print("Don\'t know what the fuck you are talking about, mate")"""
+    
